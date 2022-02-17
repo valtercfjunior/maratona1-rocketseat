@@ -301,7 +301,7 @@ td.expense{
 footer{
     text-align: center;
     padding: 4rem 0 2rem;
-    margin-top: 150px;
+    margin-top: 30vh;
     color: var(--dark-blue);
 
     opacity: 0.2;
